@@ -3,7 +3,7 @@
         {
             "Version": "1.0.0.0",
             "Link": "https://raw.github.com/Dekryptor/DiaLauncher/master/Client/diadoxx.exe",
-	    "PE": "03CCCB253E6C507766577DF720385F5A",
+	    "PE": "03CCCB253E6C507766577DF720385F5C",
             "Notification": "Need update",
             "Force": true
         }
