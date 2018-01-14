@@ -2,7 +2,7 @@
     "Versions": [
         {
             "Version": "1.0.0.0",
-            "Link": "https://github.com/Dekryptor/DiaLauncher/Client/diadoxx.exe",
+            "Link": "https://github.com/Dekryptor/DiaLauncher/blob/master/Client/diadoxx.exe?raw=true",
 	    "PE": "03CCCB253E6C507766577DF720385F5C",
             "Notification": "Need update",
             "Force": true
