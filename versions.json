@@ -1,18 +1,11 @@
 {
     "Versions": [
         {
-            "Version": "1.0.0.1",
-            "Link": "https://github.com/Dekryptor/DiaLauncher/Client/diadoxx.exe",
-			"PE": "",
-            "Newest": true,
-            "Switch": true
-        },
-        {
             "Version": "1.0.0.0",
             "Link": "https://github.com/Dekryptor/DiaLauncher/Client/diadoxx.exe",
-			"PE": "",
-            "Newest": false,
-            "Switch": false
+	    "PE": "",
+            "Newest": true,
+            "Switch": true
         }
     ]
 }
