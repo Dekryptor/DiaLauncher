@@ -3,7 +3,7 @@
         {
             "Version": "1.0.0.0",
             "Link": "https://github.com/Dekryptor/DiaLauncher/Client/diadoxx.exe",
-	    "PE": "",
+	    "PE": "03CCCB253E6C507766577DF720385F5C",
             "Newest": true,
             "Switch": true
         }
