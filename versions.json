@@ -8,7 +8,6 @@
 	    "DiadoxxPatchInfo": "Diadoxx Patch 1.0a - v1.0.117",
             "DiadoxxNotification": "New update",
             "DiadoxxForce": true,
-		
 	    "LauncherVersion": "1.0.11",
             "LauncherClient": "https://raw.github.com/Dekryptor/DiaLauncher/master/Launcher/DiaLauncher.exe",
 	    "LauncherPE": "03CCCB253E6C507766577DF720385F5C",
