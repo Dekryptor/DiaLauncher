@@ -6,14 +6,14 @@
 	    "DiadoxxPE": "03CCCB253E6C507766577DF720385F5C",
 	    "DiadoxxPatchTitle": "Diadoxx Patch Notes",
 	    "DiadoxxPatchInfo": "Diadoxx Patch 1.0a - v1.0.117",
-            "DiadoxxNotification": "New update",
+            "DiadoxxNotification": "New game update available!",
             "DiadoxxForce": true,
 	    "LauncherVersion": "1.0.11",
             "LauncherClient": "https://raw.github.com/Dekryptor/DiaLauncher/master/Launcher/DiaLauncher.exe",
 	    "LauncherPE": "03CCCB253E6C507766577DF720385F5C",
 	    "LauncherPatchTitle": "Diadoxx Patch Notes",
 	    "LauncherPatchInfo": "Launcher Patch 1.0 - v1.0.11",
-            "LauncherNote": "New update",
+            "LauncherNote": "New launcher update available!",
 	    "LauncherForce": true
         }
     ]
