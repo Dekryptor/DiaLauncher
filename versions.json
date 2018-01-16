@@ -1,7 +1,7 @@
 {
     "Versions": [
         {
-            "DiadoxxVersion": "1.0.117",
+            "DiadoxxVersion": "1311",
             "DiadoxxClient": "https://raw.github.com/Dekryptor/DiaLauncher/master/Client/diadoxx.exe",
 	    "DiadoxxPE": "03CCCB253E6C507766577DF720385F5C",
 	    "DiadoxxPatchTitle": "Diadoxx Patch Notes",
